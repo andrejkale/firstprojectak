@@ -28,6 +28,7 @@ public class Main {
         // arr1 [2] [3] = 1000;
         //System.out.println(Arrays.deepToString(arr1));
         int[] arr = {1, 2, 3, 4, 5, 6, 7};
+        System.out.println(Arrays.binarySearch(arr, 6));
         //SystemOut(arr);
 
 
